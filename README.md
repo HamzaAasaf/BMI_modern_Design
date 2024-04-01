@@ -1,4 +1,10 @@
 # bmi_modern
+![Screenshot_1711940100](https://github.com/HamzaAasaf/BMI_modern_Design/assets/94658182/f24495fd-1eb4-410a-8b4f-5f26043eeb1a)
+![Screenshot_1711940085](https://github.com/HamzaAasaf/BMI_modern_Design/assets/94658182/b580081c-41d7-46b9-acf8-5c912f98cbaf)
+![Screenshot_1711940080](https://github.com/HamzaAasaf/BMI_modern_Design/assets/94658182/01826468-8951-4703-97b0-d6e0fc8bc548)
+![Screenshot_1711940073](https://github.com/HamzaAasaf/BMI_modern_Design/assets/94658182/7e547f24-d08e-42e1-9d71-19601caba972)
+![Screenshot_1711940054](https://github.com/HamzaAasaf/BMI_modern_Design/assets/94658182/4affec13-81de-433f-ab2c-02ab5bc1797c)
+![Screenshot_1711940112](https://github.com/HamzaAasaf/BMI_modern_Design/assets/94658182/d94718ad-590e-4a4d-aa87-8d464122feda)
 
 A new Flutter project.
 
